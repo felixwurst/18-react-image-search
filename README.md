@@ -1,4 +1,4 @@
-# Project: React Image Search
+# React Image Search
 
 ### Description:
 
